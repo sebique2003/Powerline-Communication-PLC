@@ -1,0 +1,11 @@
+# office
+~$*.docx
+~$*.doc
+~$*.pptx
+
+# metadata
+.DS_Store
+Thumbs.db
+
+# vs code settings
+.vscode/
